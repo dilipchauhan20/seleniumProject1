@@ -1,0 +1,18 @@
+1561109898512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/k1bfsctx63b4jrw_2p9ctjbw0000gv/T/rust_mozprofile.zwoHUeamV0zK"
+1561109905107	Marionette	INFO	Listening on port 62783
+2019-06-21 15:08:25.857 plugin-container[2920:96366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-06-21 15:08:25.862 plugin-container[2920:96366] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1561109951258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/k1bfsctx63b4jrw_2p9ctjbw0000gv/T/rust_mozprofile.TiHaOhLELtPw"
+1561109956089	Marionette	INFO	Listening on port 62898
+2019-06-21 15:09:16.488 plugin-container[2932:96818] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-06-21 15:09:16.514 plugin-container[2932:96818] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1561110114980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zx/k1bfsctx63b4jrw_2p9ctjbw0000gv/T/rust_mozprofile.p2NwxxiT6NMg"
+1561110119119	Marionette	INFO	Listening on port 63074
+2019-06-21 15:11:59.538 plugin-container[2954:98595] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-06-21 15:11:59.541 plugin-container[2954:98595] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
